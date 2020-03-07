@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
+
 int largest(int arr[],int size)
 {
 	int large=arr[0],i;
